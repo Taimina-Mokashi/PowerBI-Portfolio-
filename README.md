@@ -24,7 +24,7 @@ Excel
 
 ## 🪙 Gold Price Analysis Dashboard
 
-- Analyzed historical gold price trends across months and years
+Power BI dashboard analyzing historical gold price trends, peak months, and yearly price movements for investment insights.
 
 Tools: 
 
