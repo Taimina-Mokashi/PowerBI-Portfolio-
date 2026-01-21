@@ -2,7 +2,7 @@ This repository showcases my Power BI dashboards created for data analysis and b
 
 ## 🚖 Uber Service Dashboard
 
-- Analyzed ride bookings, revenue, cancellations, and ratings
+Interactive Power BI dashboard analyzing Uber ride insights, demand trends, and key performance metrics.
 
 Tools: 
 
